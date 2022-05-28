@@ -34,4 +34,4 @@ Some of the finding that i found while doing EDA,
 
 *Customers who doesn’t have any kids at home accepted most campaigns.
 
-Customers who doesn’t have any kids at home accepted most campaigns.
+*Customers who doesn’t have any kids at home accepted most campaigns.
